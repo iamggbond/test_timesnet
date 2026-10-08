@@ -1,0 +1,9 @@
+# Web Framework
+Flask
+Werkzeug
+
+# Data Processing
+pandas
+numpy
+scikit-learn == 1.8.0
+
